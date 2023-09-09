@@ -33,9 +33,6 @@ public class It {
         this.slux = slux;
     }
 
-    public It() {
-    }
-
     @Override
     public String toString() {
         return "It{" +
@@ -43,5 +40,8 @@ public class It {
                 ", ruyruk='" + ruyruk + '\'' +
                 ", slux='" + slux + '\'' +
                 '}';
+    }
+
+    public It() {
     }
 }

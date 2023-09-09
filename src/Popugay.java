@@ -1,5 +1,5 @@
-public class Popugay{
-  private String  kanat;
+public class Popugay {
+  private String kanat;
   private String tumshuk;
   private String svet;
 
@@ -46,5 +46,3 @@ public class Popugay{
 
   }
 }
-
-
