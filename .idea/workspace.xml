@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee632969-f671-485f-b51b-3394b0aaebdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Region.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="583a3a7c-203f-4d37-8881-19734b579d1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baluk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/It.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mushk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Popugay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Region.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,14 +26,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2VKudYBz6Lk45d7kHcnsIu6AhGz" />
+  <component name="ProjectId" id="2VbtwlrfWxSVURJtFtZWFxDUFm3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,14 +44,28 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="name Amantur" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ee632969-f671-485f-b51b-3394b0aaebdf" name="Changes" comment="" />
-      <created>1694597181901</created>
+      <changelist id="583a3a7c-203f-4d37-8881-19734b579d1a" name="Changes" comment="" />
+      <created>1695116851233</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1694597181901</updated>
+      <updated>1695116851233</updated>
     </task>
     <servers />
   </component>
