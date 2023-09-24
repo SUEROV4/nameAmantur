@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="583a3a7c-203f-4d37-8881-19734b579d1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Farm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file1.txt" afterDir="false" />
+    <list default="true" id="44e1344a-a93e-4db9-a5a5-9587bd090261" name="Changes" comment="amantur">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baluk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/It.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mushk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Popugay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Region.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,40 +22,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2VbtwlrfWxSVURJtFtZWFxDUFm3" />
+  <component name="ProjectId" id="2VpdVLKKjhBh2hxU4ZqLCQPwEew" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="name Amantur" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="583a3a7c-203f-4d37-8881-19734b579d1a" name="Changes" comment="" />
-      <created>1695116851233</created>
+      <changelist id="44e1344a-a93e-4db9-a5a5-9587bd090261" name="Changes" comment="" />
+      <created>1695536980016</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695116851233</updated>
+      <updated>1695536980016</updated>
     </task>
+    <task id="LOCAL-00001" summary="amantur">
+      <option name="closed" value="true" />
+      <created>1695539806044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695539806044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="amantur" />
+    <option name="LAST_COMMIT_MESSAGE" value="amantur" />
   </component>
 </project>
