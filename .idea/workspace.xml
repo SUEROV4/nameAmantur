@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44e1344a-a93e-4db9-a5a5-9587bd090261" name="Changes" comment="ssd">
-      <change afterPath="$PROJECT_DIR$/src/Dom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hotel.java" afterDir="false" />
+    <list default="true" id="0ef4545a-ffe8-4935-95ea-01148a0fb9af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Horse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dom.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,51 +24,29 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2VpdVLKKjhBh2hxU4ZqLCQPwEew" />
+  <component name="ProjectId" id="2Vz43v8tBqidjIDF0uzquTKO41A" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="44e1344a-a93e-4db9-a5a5-9587bd090261" name="Changes" comment="" />
-      <created>1695536980016</created>
+      <changelist id="0ef4545a-ffe8-4935-95ea-01148a0fb9af" name="Changes" comment="" />
+      <created>1695825428120</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695536980016</updated>
+      <updated>1695825428120</updated>
     </task>
-    <task id="LOCAL-00001" summary="amantur">
-      <option name="closed" value="true" />
-      <created>1695539806044</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1695539806044</updated>
-    </task>
-    <task id="LOCAL-00002" summary="ssd">
-      <option name="closed" value="true" />
-      <created>1695540480395</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1695540480395</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="amantur" />
-    <MESSAGE value="ssd" />
-    <option name="LAST_COMMIT_MESSAGE" value="ssd" />
   </component>
 </project>
